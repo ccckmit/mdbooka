@@ -5,8 +5,8 @@ Book Editing System for Markdown
 ## Install
 
 ```
-$ git clone https://github.com/ccckmit/mdbook.git
-$ cd mdbook
+$ git clone https://github.com/ccckmit/mdbooka.git
+$ cd mdbooka
 $ npm install
 $ node bookServer // if you would like to store data in mongodb, start mongod before this command
 ```
