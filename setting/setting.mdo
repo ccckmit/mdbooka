@@ -1,0 +1,11 @@
+port:8080
+portSsl:443
+home:/index.html
+signup:false
+useLocal:false
+db:{user:"ccc", password:"ccc1234", port:27017}
+users:
+user     | password 
+---------|-----------
+system   | system1234
+ccc      | ccc1234
